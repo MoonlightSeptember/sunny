@@ -1,0 +1,7 @@
+ ##定义长方形周长函数
+ def perimeter(width,height):
+...     return (width+height)*2
+##调用函数
+w=5
+h=4
+print("width=",w,"height=",h,"perimeter=",perimeter(w,h))
